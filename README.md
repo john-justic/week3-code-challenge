@@ -7,7 +7,11 @@ To run this application on your machine:
 
 First you need to download json server incase you dont have.
 
-Open your terminal and run this command     json-server --watch db.json
+Open your terminal and run this command 
+
+
+        json-server --watch db.json
+
 
 Open your html file in your browser and you will be able to have the application working.
 
