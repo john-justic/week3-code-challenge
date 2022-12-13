@@ -1,5 +1,5 @@
 body {
-    background-image: url(movie2.jpg);
+    background-image: url(movie3.jpg);
     height: 1000px;
   }
   #movieDetail{
@@ -14,6 +14,7 @@ body {
   h1 {
     text-align: center;
     color: white;
+    font-size: 80px;
   }
 
   #pic{
@@ -81,5 +82,5 @@ body {
     }
     h2 {
       color: white;
-      
+
     }
