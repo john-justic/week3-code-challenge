@@ -77,10 +77,13 @@ body {
       font-weight: 700;
       font-family: 'Trebuchet MS' ;
     }
-    nav {
-      background-color: black;
+    div {
+      background-color: rgb(35, 35, 37);
     }
     h2 {
       color: white;
 
+    }
+    img {
+      text-align: center;
     }
