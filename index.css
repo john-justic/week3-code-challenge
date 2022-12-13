@@ -13,6 +13,7 @@ body {
   }
   h1 {
     text-align: center;
+    color: white;
   }
 
   #pic{
@@ -48,6 +49,7 @@ body {
       margin-left: 1em;
       color
     }
+    
     #list {
     cursor: pointer;
     margin: 1em;
@@ -73,4 +75,7 @@ body {
     #title{
       font-weight: 700;
       font-family: 'Trebuchet MS' ;
+    }
+    nav {
+      background-color: black;
     }
